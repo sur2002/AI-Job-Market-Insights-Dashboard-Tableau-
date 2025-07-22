@@ -1,4 +1,6 @@
 **AI Job Market Insights Dashboard**
+
+
 This project visualizes global trends in AI job postings using **Tableau**, based on key factors like job title, experience level, company size, industry,
 location, and required skills.The dashboard offers insights into salary progression, hiring demand, company behavior, and seasonal trends across the AI sector.
 
